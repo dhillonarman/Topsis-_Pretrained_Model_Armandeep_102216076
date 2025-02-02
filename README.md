@@ -84,8 +84,8 @@ BLOOM   | 35.7      | 0.65      | 0.60             | 0.632        | 3
 
 ##  Results
 
- The final ranking is saved in **topsis_results.csv**.  
- A **bar chart** is generated for **visual analysis** of the rankings.  
+ The final ranking wil be saved in **topsis_results.csv**.  
+ A **bar chart** will be generated for **visual analysis** of the rankings.  
 
 ---
 
