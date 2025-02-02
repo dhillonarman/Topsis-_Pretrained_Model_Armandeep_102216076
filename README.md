@@ -28,23 +28,12 @@ pip install numpy pandas matplotlib torch transformers datasets scikit-learn
 
 ---
 
-##  Installation
-
-Clone this repository and navigate to the project directory:
-
-```bash
-git clone https://github.com/your-repo/topsis-text-generation.git
-cd topsis-text-generation
-```
-
----
-
 ##  Running the Project
 
-Execute the script to run the evaluation:
+Execute the script after converting from .pynb to py. to run the evaluation:
 
 ```bash
-python topsis_text_generation.py
+python 102216076_topsis_pretrainedmodel_textgeneration.py
 ```
 
 This will generate the **TOPSIS ranking** and save the results to a CSV file.
