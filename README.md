@@ -1,6 +1,3 @@
-# Topsis-_Pretrained_Model_Armandeep_102216076
-Topsis to find best pretrained model for text generation
-
 #  TOPSIS Evaluation for Pretrained Text Generation Models
 
 This project applies the **TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution)** method to evaluate and rank pretrained text generation models based on multiple performance metrics.
