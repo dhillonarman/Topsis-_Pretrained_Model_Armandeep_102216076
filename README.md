@@ -30,7 +30,7 @@ pip install numpy pandas matplotlib torch transformers datasets scikit-learn
 
 ##  Running the Project
 
-Execute the script after converting from .pynb to py. to run the evaluation:
+Execute the script after converting from .pynb to .py to run the evaluation:
 
 ```bash
 python 102216076_topsis_pretrainedmodel_textgeneration.py
@@ -72,7 +72,7 @@ After running the script, the output may look like this:
 
 ```plaintext
 Model   | Perplexity | Diversity | Inference Time (s) | TOPSIS Score | Rank
---------|-----------|----------|------------------|--------------|------
+--------|-----------|-----------|------------------|--------------|------
 GPT-2   | 32.5      | 0.68      | 0.45             | 0.742        | 2
 XLNet   | 28.9      | 0.74      | 0.52             | 0.895        | 1
 BLOOM   | 35.7      | 0.65      | 0.60             | 0.632        | 3
